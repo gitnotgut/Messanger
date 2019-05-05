@@ -1,0 +1,7 @@
+package org.alikhan.apiprojects.messenger.exception;
+
+import javax.ws.rs.ext.ExceptionMapper;
+
+public class DataNotFoundExceptionMapper implements ExceptionMapper {
+
+}

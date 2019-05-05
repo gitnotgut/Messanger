@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private String getUriForSelf(UriInfo uriInfo, Message message)&apos; from &apos;org.alikhan.apiprojects.messenger.resources.MessageResource.getMessage()&apos; to &apos;org.alikhan.apiprojects.messenger.resources.MessageResource&apos;&#x0D;&#x0A;- Original project: &apos;messenger&apos;&#x0D;&#x0A;- Method name: &apos;getUriForSelf&apos;&#x0D;&#x0A;- Destination type: &apos;org.alikhan.apiprojects.messenger.resources.MessageResource&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;getUriForSelf&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src\/main\/java&lt;org.alikhan.apiprojects.messenger.resources{MessageResource.java" name="getUriForSelf" replace="false" selection="1987 145" stamp="1556437388338" version="1.0" visibility="2"/>
+</session>

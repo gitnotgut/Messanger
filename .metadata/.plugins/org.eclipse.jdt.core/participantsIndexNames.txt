@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+E:\Practise\JavaPractise\WebServices\Workspaces\JAXRS_REST_WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1921157212.index
+\messenger\src\main\java
